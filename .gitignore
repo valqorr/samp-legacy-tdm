@@ -1,0 +1,14 @@
+# SA-MP server binaries
+samp-server.exe
+announce.exe
+samp-npc.exe
+pawnc.exe
+
+# Logs and temp files
+server_log.txt
+*.log
+
+# IDE/Editor folders
+.pwn.swp
+*.bak
+*.tmp
